@@ -11,3 +11,5 @@ const conexao = mysql.createPool({
 });
 
 export default conexao;
+
+//10.3.72.93
